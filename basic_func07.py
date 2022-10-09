@@ -3,3 +3,9 @@
 # Create function arguments a.
 
 # Return the value a.
+
+def main():
+    return abs(12)
+
+
+print(main())
