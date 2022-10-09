@@ -4,4 +4,4 @@
 
 def main():
     return 2.5
-print (main())
+print (type(main()))
