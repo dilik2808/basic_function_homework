@@ -4,4 +4,7 @@
 
 def main():
     return 123
-print (main())
+
+
+print (type(main()))
+
