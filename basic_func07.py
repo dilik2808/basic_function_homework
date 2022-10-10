@@ -4,8 +4,10 @@
 
 # Return the value a.
 
-def main():
-    return abs(12)
+def main(a):
+    
+    return a
 
 
-print(main())
+
+print(main(123))
