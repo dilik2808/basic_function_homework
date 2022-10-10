@@ -3,7 +3,7 @@
 # Create function arguments a.
 
 # decrease the value of a to one and return
-def main():
-    return abs(123)
+def main(a):
+    return a-1
 
-print (main()-1)
+print (main(123))
